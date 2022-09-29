@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Heavy Charge",
+		"uniques": ["[+25]% Strength <when attacking>"]
+	},
+	
+	{
+		"name": "Liberation Army",
+		"uniques": ["[+30]% Strength <when fighting in [Friendly Land] tiles>"]
+		"unitTypes": ["Gunpowder"]
+	},
+]

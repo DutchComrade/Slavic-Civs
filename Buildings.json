@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Tsrkva",
+		"replaces": "Temple",
+		"cost": 100,
+		"uniqueTo": "Serbia",
+		"culture": 2,
+		"faith": 3,
+		"hurryCostModifier": 50,
+		"requiredBuilding": "Shrine",
+		"requiredTech": "Philosophy",
+	},
+    {
+		"name": "Seimas",
+		"replaces": "Palace",
+		"cost": 1,
+		"uniqueTo": "Poland"
+		"production": 4,
+		"gold": 4,
+		"science": 2,
+		"culture": 2,
+		"maintenance": 1,
+		"hurryCostModifier": 1,
+		 "cityStrength": 2,
+	},
+]
